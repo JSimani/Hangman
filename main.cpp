@@ -6,8 +6,8 @@
 
 using namespace std;
 
-static const string BODYPARTS = "/User/JSimani/Desktop/Projects/Hangman/data.dat";
-static const string DICTIONARY = "/User/JSimani/Desktop/Projects/Hangman/dictionary.txt";
+static const string BODYPARTS = "data.dat";
+static const string DICTIONARY = "dictionary.txt";
 
 void first_game();
 void second_game();
